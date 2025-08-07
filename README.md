@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Vulnerability Scanning & Management</b>
+
   - [Vulnrability Scanning with Nessus Essentials](https://github.com/markkis22/Algorithms-Practice)
-- <b>Penetration Testing Homelab (HackThe Box, TryHackme)</b>
-- <b> Malware Analysis Homelab </b>
-- <b> Pwnigatchi Build </b>
+  - [Penetration Testing Homelab (HackThe Box, TryHackme)]
+  - [Malware Analysis Homelab]
+  - [Pwnigatchi Build] 
 
 <h2> 🤳 Connect with me:</h2>
 
