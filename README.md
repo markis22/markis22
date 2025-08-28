@@ -14,7 +14,7 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/mark-shenouda-908708245" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/mark-shenouda-908708245
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
