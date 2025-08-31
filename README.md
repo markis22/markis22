@@ -12,12 +12,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/mark-shenouda-908708245" />][linkedin]
+[<img align="left" alt="MarkShenouda | LinkedIn" width="22px" src="https://www.linkedin.com/in/mark-shenouda-908708245" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mark-shenouda-908708245
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
