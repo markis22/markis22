@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mark! <br/><a href="https://www.linkedin.com/in/mark-shenouda-908708245/">Electrical Eng & Cybersecurity Enthusiast</a>, <a href=</a></h1>
+<h1>Hi, I'm Mark! <br/><a href="https://www.linkedin.com/in/mark-shenouda-908708245/">Cybersecurity & Electrical Eng Enthusiast</a>, <a href=</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
